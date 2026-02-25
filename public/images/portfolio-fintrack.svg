@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" fill="none">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1200" y2="675" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A1326"/>
+      <stop offset="1" stop-color="#1A1F3A"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="170" y1="190" x2="1020" y2="510" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#818CF8" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity=".15"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" rx="24" fill="url(#bg2)"/>
+  <rect x="130" y="150" width="940" height="375" rx="22" fill="#0F172A" stroke="#1E293B"/>
+  <rect x="170" y="190" width="860" height="295" rx="16" fill="url(#accent2)"/>
+  <text x="170" y="112" fill="#93C5FD" font-family="Inter, Arial, sans-serif" font-size="22" letter-spacing="3">PORTFOLIO PREVIEW</text>
+  <text x="170" y="320" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="64" font-weight="700">FinTrack SaaS</text>
+  <text x="170" y="370" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="28">Finance Workflow Automation</text>
+</svg>
