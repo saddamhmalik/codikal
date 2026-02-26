@@ -16,7 +16,7 @@
     </p>
     <p style="margin: 0 0 12px;">
         This message is sent from a no-reply address. For additional details, email us at
-        <a href="mailto:contact-us@codikal.com">contact-us@codikal.com</a>.
+        <a href="mailto:hello@codikal.com">hello@codikal.com</a>.
     </p>
     <p style="margin: 0;">
         Regards,<br>

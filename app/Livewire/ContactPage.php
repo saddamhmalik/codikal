@@ -71,7 +71,7 @@ class ContactPage extends Component
         ]);
 
         try {
-            Mail::to('contact-us@codikal.com')->queue(new ContactFormSubmission($validated));
+            Mail::to('hello@codikal.com')->queue(new ContactFormSubmission($validated));
             Log::info('contact_form.mail.admin_queued', [
                 'submission_id' => $submissionId,
                 'to' => env('CONTACT_EMAIL'),

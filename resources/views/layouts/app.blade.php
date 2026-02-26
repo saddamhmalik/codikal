@@ -41,7 +41,7 @@
             'name' => 'Codikal',
             'url' => url('/'),
             'logo' => asset('images/codikal-brand.svg'),
-            'email' => 'contact-us@codikal.com',
+            'email' => 'hello@codikal.com',
             'description' => 'Software development services company specializing in web, mobile, SaaS, and APIs.',
             'sameAs' => [],
         ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) !!}

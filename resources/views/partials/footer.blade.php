@@ -31,7 +31,7 @@
             <div>
                 <h3 class="text-sm font-semibold uppercase tracking-wider text-slate-200">Contact Details</h3>
                 <ul class="mt-4 space-y-2 text-sm text-slate-400">
-                    <li><span class="text-slate-300">Email:</span> <a href="mailto:contact-us@codikal.com" class="hover:text-cyan-300">hello@codikal.com</a></li>
+                    <li><span class="text-slate-300">Email:</span> <a href="mailto:hello@codikal.com" class="hover:text-cyan-300">hello@codikal.com</a></li>
                     <li><span class="text-slate-300">Phone:</span> <a href="tel:+919999999999" class="hover:text-cyan-300">+91 91350 09315</a></li>
                     <li>
                         <span class="text-slate-300">Address:</span>
